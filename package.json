@@ -1,0 +1,18 @@
+{
+  "name": "insta-posts",
+  "version": "1.0.0",
+  "description": "API to list posts in several categories to post in Instagram Business Accounts",
+  "main": "src/server.js",
+  "repository": "https://github.com/felvieira/insta-posts.git",
+  "author": "Felipe Vieira",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
